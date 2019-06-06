@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1559864787 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_vendor_leeco_msm8996-common\nnonce 1559864786-87A0E30A462E9F5BEC8AFBAC1A542F0953C8051F\n\n0000000000000000000000000000000000000000 2f87f868151712f6d062037ba9a84ffbf265dc49 refs/for/mkp\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEE/Y8fKHw84zhHjhP78iL05i7NJTEFAlz5pdMACgkQ8iL05i7N\nJTHlfgf/fwfxbcA0orNGbjPs9ruCEMwpWzUxeiqQZ9hrYABqjnjSntrmkjcG0RlW\nQRedLI2KASUuyd20FzS4Rkspcx56clVlkM+PF3CkUPbEaoy2enyhd7Jr5ZkBg4fD\n4hiY+8Mfm1Ik01j5J+wr4l8Q5umupX1v11wn9xZ+gcsoZd4scUKXzwt9BfOXhNVP\n8B+eVv4kJ/d4EOKLVsQhbKtAJ109dsYgIWI0ZH2zr0zG+b2vLtd1Xj9wppXMbwl7\ndw7cOCznfetf+UF6D2FdlQVRL+HFjJF5gOtTXOzg7z+61q07N9f4UUAA0nAFnJqX\nkn0FWAaNfUR8qYvHJYSBU3JhQ28HjQ\u003d\u003d\n\u003dd1w9\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
