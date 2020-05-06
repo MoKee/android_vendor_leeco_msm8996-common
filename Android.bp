@@ -87,6 +87,16 @@ android_app_import {
 }
 
 android_app_import {
+	name: "UEIQuicksetSDKLeTV",
+	owner: "leeco",
+	apk: "proprietary/app/UEIQuicksetSDKLeTV/UEIQuicksetSDKLeTV.apk",
+	certificate: "platform",
+	dex_preopt: {
+		enabled: false,
+	},
+}
+
+android_app_import {
 	name: "uceShimService",
 	owner: "leeco",
 	apk: "proprietary/app/uceShimService/uceShimService.apk",
